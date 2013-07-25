@@ -1,0 +1,66 @@
+/*
+/////////////////////////////////////////////////
+// (CSS)
+// ESTILO QUE COMPOE A INTERFACE DO PROGRAMA
+// AUTOR: VALDINEY FRANÇA
+//
+////////////////////////////////////////////////
+*/
+
+body{
+background-color:#e2ebf2;
+font-family:verdana;
+}
+h3{
+opacity:0.60;
+}
+
+#table{
+padding:10px;
+margin:auto;
+border:1px solid silver;
+background-color:white;
+border-radius:5px;
+margin-top:20px;
+}
+#table td{
+padding:10px;
+border:1px solid silver;
+background-color:white;
+}
+.select, #capital{
+padding:5px;
+box-shadow:silver 1px 1px 3px inset;
+}
+#capital{
+width:173px;
+}
+#computar_renda{
+padding:5px;
+}
+#resultado_renda{
+width:415px;
+height:auto;
+min-height:60px;
+padding:10px;
+margin:auto;
+background-color:;
+border:1px solid silver;
+background-color:white;
+border-radius:5px;
+margin-top:20px;
+}
+#div_relatorio,#div_relatorioStorage{
+width:600px;
+height:auto;
+min-height:60px;
+padding:10px;
+margin:auto;
+background-color:;
+border:1px solid silver;
+background-color:white;
+border-radius:5px;
+margin-top:20px;
+opacity:0.60;
+margin-bottom:10px;
+}
